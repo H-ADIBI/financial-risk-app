@@ -93,7 +93,7 @@ models:
 Each of these is isolated behind its category's base class, so hardening
 any one of them is a self-contained change.
 
-## Deploying to Azure
+## Deploying 
 
 See `deployment/DEPLOY.md` for step-by-step instructions (App Service or
 Container Apps, both via the included `deployment/Dockerfile`).
