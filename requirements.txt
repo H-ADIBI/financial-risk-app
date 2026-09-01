@@ -1,0 +1,16 @@
+streamlit>=1.38
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+scikit-learn>=1.5
+plotly>=5.22
+pydantic>=2.7
+python-dotenv>=1.0
+
+# AI analyst
+langchain>=0.2
+langchain-groq>=0.2
+langgraph>=0.2
+
+# testing
+pytest>=8.0
